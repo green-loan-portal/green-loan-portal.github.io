@@ -11,4 +11,4 @@ green-loan-portal is a web application that we have created for the [GEM$ loan p
 
 ## Team Members:
 
-Brody Uehara: Junior at the University of Hawaii at Manoa, primarily worked on front end of green loan portal. 
+Brody Uehara: Junior at the University of Hawaii at Manoa, primarily worked on front end of green loan portal. My goals to this project is to learn more about web development and grow my programming skills. 
