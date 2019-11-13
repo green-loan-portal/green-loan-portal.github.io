@@ -16,3 +16,5 @@ Brody Uehara: Junior at the University of Hawaii at Manoa, primarily worked on f
 Trey Sumida: My goal for this project is to learn how to develop an application with a group and code with others. I am looking to improve upon my web development skills. I am more comfortable with front-end UI, and have some experience with databases.
 
 Arslan Rakhmankulov: My goals for this project is to obtain mastery of the Meteor technology stack. I primarily worked on the back-end along with some front end relating to application forms.
+
+Ryota Seki: My goals for this project are to get comfortable with using the web application framework Meteor and to learn the different components associated with it (React and Mongo DB), and to learn the process/workflow of contributing to open source projects. I implemented a few features on the front end. 
