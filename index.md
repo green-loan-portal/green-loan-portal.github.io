@@ -81,3 +81,13 @@ Coming soon...
 After you run the appliation, you will be greeted by our homepage:
 
 <img src="images/homepage.png">
+
+If you don't have an account with us, you can click "Login" on the uppper right hand corner of the page, and choose "Sign up":
+
+<img src="images/register.png">
+
+Once you set up an account, you will receive a confirmation email, and will be taken to this page:
+
+<img src="images/userlogin.png">
+
+On the user login screen, you can either start/resume your GEM$ application, or you can check the progress of your application to see what stage it is processed at. 
