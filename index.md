@@ -19,9 +19,10 @@ Arslan Rakhmankulov: My goals for this project is to obtain mastery of the Meteo
 Ryota Seki: My goals for this project are to get comfortable with using the web application framework Meteor and to learn the different components associated with it (React and Mongo DB), and to learn the process/workflow of contributing to open source projects. I implemented a few features on the front end. 
 
 ## Installation
+
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, [download a copy of Digits](https://github.com/ryotabs/digits). Note that Digits is a private repo and so you will need to request permission from the author to gain access to the repo.
+Second, [download a copy of green-loan-portal](https://github.com/green-loan-portal/simple-green-loans). 
 
 Third, cd into the app directory install the required libraries with:
 
@@ -33,24 +34,25 @@ Once the libraries are installed, you can run the application by invoking:
 
 The first time you run the app, it will create some default users and data. Here is the output:
 ```
-meteor npm run start
+meteor npm run start              
 
-> meteor-application-template-react@ start /Users/ryotaseki/github/ryotabs/digits/app
-
+> meteor-application-template-react@ start /home/ryota/GitHub/simple-green-loans/app
 > meteor --no-release-check --settings ../config/settings.development.json
 
-[[[[[ ~/github/ryotabs/digits/app ]]]]]
+[[[[[ ~/GitHub/simple-green-loans/app ]]]]]   
 
-=> Started proxy.
-=> Started MongoDB.
-W20191112-18:29:35.647(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
-W20191112-18:29:35.670(-10)? (STDERR) While this implementation will work correctly, it is known to be
-W20191112-18:29:35.670(-10)? (STDERR) approximately three times slower than the native implementation.
-W20191112-18:29:35.670(-10)? (STDERR) In order to use the native implementation instead, run
-W20191112-18:29:35.671(-10)? (STDERR)
-W20191112-18:29:35.671(-10)? (STDERR)   meteor npm install --save bcrypt
-W20191112-18:29:35.671(-10)? (STDERR)
-W20191112-18:29:35.671(-10)? (STDERR) in the root directory of your application.
+=> Started proxy.                             
+=> Started MongoDB.                           
+W20191113-21:37:31.866(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
+W20191113-21:37:31.929(-10)? (STDERR) While this implementation will work correctly, it is known to be
+W20191113-21:37:31.931(-10)? (STDERR) approximately three times slower than the native implementation.
+W20191113-21:37:31.932(-10)? (STDERR) In order to use the native implementation instead, run
+W20191113-21:37:31.933(-10)? (STDERR) 
+W20191113-21:37:31.933(-10)? (STDERR)   meteor npm install --save bcrypt
+W20191113-21:37:31.934(-10)? (STDERR) 
+W20191113-21:37:31.934(-10)? (STDERR) in the root directory of your application.
+I20191113-21:37:32.378(-10)? Creating default data.
+=> Started your app.
 ```
 
 **Note regarding bcrypt warning.** You will also get the following message when you run this application:
@@ -69,6 +71,10 @@ in the root directory of your application.
 On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
 
 If all goes well, the template application will appear at http://localhost:3000. You can login using the credentials in [settings.development.json](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json), or else register a new account.
+
+## Accessing the application on the web
+
+Coming soon...
 
 ## User Interface Demonstration
 
