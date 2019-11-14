@@ -1,12 +1,19 @@
 ## Overview
 
-green-loan-portal is a web application that we have created for the [GEM$ loan program](https://gems.hawaii.gov/). The application provides improvements to current processes that are all done by hand. Some more improvements include:
+green-loan-portal is a web application that we have created for the [GEM$ loan program](https://gems.hawaii.gov/). The application provides improvements to the current process which is done manually and is very prone to errors. As of now, the current process is mainly initiated by filling out a long PDF application that has many sections and can be overwhelming to fill out. Additionally, all the information from the submitted application is also inputted manually into a spreadsheet, so the possibility of errors are much more frequent, as every piece of information is copied over by hand. 
+
+Our solution that we are working toward aims to eliminate the redundancies in the current process by creating a web application that is simple to fill out easy to follow along with. Applicants can create their own accounts, and fill out their application with the web-based forms, and can save their progress in the application to come back to it later. It also creates database entries for each user and records their responses in the forms in the database as well. For the loan processors, different account roles will be created, and they can look up any applicant by querying their information in the database. 
+
+Finally, a key feature that we are working on implementing is to export database entries for each applicant into the original application form for historical documentation purposes. 
+
+Some more improvements include:
 
 * User account creation to create new applications and save their application status
 * Monitoring of progress of application status to see what stage of processing it is in
 * Friendly web-based form for the GEM$ application
 * Database querying of loan applicants for loan processors
 * User Roles for all parties involved in the application process
+* Automation of key processes to ensure that things are handled/addressed in the quickest way possible
 
 ## Team Members:
 
@@ -16,7 +23,7 @@ Trey Sumida: My goal for this project is to learn how to develop an application 
 
 Arslan Rakhmankulov: My goals for this project is to obtain mastery of the Meteor technology stack. I primarily worked on the back-end along with some front end relating to application forms.
 
-Ryota Seki: My goals for this project are to get comfortable with using the web application framework Meteor and to learn the different components associated with it (React and Mongo DB), and to learn the process/workflow of contributing to open source projects. I implemented a few features on the front end. 
+Ryota Seki: My goals for this project are to get comfortable with using the web application framework Meteor, to learn the different components associated with it (React and Mongo DB), and to learn the process/workflow of working with and contributing to open source projects. I implemented a few features on the front end. 
 
 ## Installation
 
