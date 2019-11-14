@@ -25,7 +25,7 @@ Arslan Rakhmankulov: My goals for this project is to obtain mastery of the Meteo
 
 Ryota Seki: My goals for this project are to get comfortable with using the web application framework Meteor, to learn the different components associated with it (React and Mongo DB), and to learn the process/workflow of working with and contributing to open source projects. I implemented a few features on the front end. 
 
-Wiley Bui: My goals for this project are to work along with others as well as to practice/master the skills that I have learned in this course using JavaScript, React, Meteor, and, especially, MongoDB. I would like to know how the application would come together when it is made and is pushed through production.
+Wiley Bui: My goals for this project are to work along with others as well as to practice/master the skills that I have learned in this course using JavaScript, React, Meteor, and, especially, MongoDB. I would like to know how the application would come together when it is made and is pushed through production. The skills that I brought to the teams were to add, update, list, and edit the records for the database.
 
 ## Installation
 
