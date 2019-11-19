@@ -89,7 +89,7 @@ Coming soon...
 
 After you run the appliation, you will be greeted by our homepage:
 
-<img src="images/HomePage.png">
+<img src="images/HomePage1.png">
 
 If you don't have an account with us, you can click "Login" on the uppper right hand corner of the page, and choose "Sign up":
 
