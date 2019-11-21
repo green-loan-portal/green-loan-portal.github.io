@@ -15,6 +15,11 @@ Some more improvements include:
 * User Roles for all parties involved in the application process
 * Automation of key processes to ensure that things are handled/addressed in the quickest way possible
 
+Tracking/progress of project issues can be found on our project boards.
+
+Milestone 1: https://github.com/orgs/green-loan-portal/projects/1
+Milestone 2: https://github.com/orgs/green-loan-portal/projects/2
+
 ## Team Members:
 
 Brody Uehara: Junior at the University of Hawaii at Manoa, primarily worked on front end of green loan portal. My goals to this project is to learn more about web development and grow my programming skills. 
@@ -83,7 +88,7 @@ If all goes well, the template application will appear at http://localhost:3000.
 
 ## Accessing the application on the web
 
-Coming soon...
+http://simple-green-loans.meteorapp.com/#/
 
 ## User Interface Demonstration
 
