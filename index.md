@@ -18,6 +18,7 @@ Some more improvements include:
 Tracking/progress of project issues can be found on our project boards.
 
 Milestone 1: https://github.com/orgs/green-loan-portal/projects/1
+
 Milestone 2: https://github.com/orgs/green-loan-portal/projects/2
 
 ## Team Members:
