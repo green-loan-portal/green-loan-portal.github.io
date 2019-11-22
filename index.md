@@ -1,7 +1,7 @@
 ## Table of Contents
 * [Overview](#overview)
-  * [Milestone 1](#milestone1)
-  * [Milestone 2](#milestone2)
+  * [Milestone 1](https://github.com/orgs/green-loan-portal/projects/1)
+  * [Milestone 2](https://github.com/orgs/green-loan-portal/projects/2)
 * [Accessing the application on the web](#accesswebapplication)
 * [User Interface Demonstration](#demo)
 * [Installation](#installation)
