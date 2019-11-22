@@ -41,15 +41,15 @@ Please [click here](http://simple-green-loans.meteorapp.com/#/)
 <a name="demo"></a>
 ## User Interface Demonstration
 
-After you run the appliation, you will be greeted by our homepage:
+After you run the application, you will be greeted by our [homepage](http://simple-green-loans.meteorapp.com):
 
 <img src="images/HomePage.png">
 
-If you don't have an account with us, you can click "Login" on the uppper right hand corner of the page, and choose "Sign up":
+If you don't have an account with us, you can click "Login" on the upper right hand corner of the page, and choose "[Sign up](http://simple-green-loans.meteorapp.com/#/signup)":
 
 <img src="images/register.png">
 
-Once you set up an account, you will receive a confirmation email, and will be taken to this page:
+Once you set up an account, you will receive a confirmation email, and will be taken to this [page](http://simple-green-loans.meteorapp.com/#/Profile):
 
 <img src="images/userlogin.png">
 
