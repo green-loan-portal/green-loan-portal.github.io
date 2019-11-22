@@ -113,7 +113,7 @@ If all goes well, the template application will appear at http://localhost:3000.
 <a name="teammembers"></a>
 ## Team Members:
 
-Brody Uehara: I primarily worked on front end to enhance user interface with the green loan portal. My goals to this project is to learn more about web development and grow my programming skills. 
+[Brody Uehara](https://github.com/brodyu): I primarily worked on front end to enhance user interface with the green loan portal. My goals to this project is to learn more about web development and grow my programming skills. 
 
 Trey Sumida: My goal for this project is to learn how to develop an application with a group and code with others. I am looking to improve upon my web development skills. I am more comfortable with front-end UI, and have some experience with databases.
 
