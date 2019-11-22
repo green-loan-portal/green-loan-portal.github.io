@@ -1,3 +1,13 @@
+## Table of Contents
+* [Overview](#overview)
+  * [Milestone 1](#milestone1)
+  * [Milestone 2](#milestone2)
+* [Accessing the application on the web](#accesswebapplication)
+* [User Interface Demonstration](#demo)
+* [Installation](#installation)
+* [Team Members](#teammembers)
+
+<a name="overview"/>
 ## Overview
 
 green-loan-portal is a web application that we have created for the [GEM$ loan program](https://gems.hawaii.gov/). The application provides improvements to the current process which is done manually and is very prone to errors. As of now, the current process is mainly initiated by filling out a long PDF application that has many sections and can be overwhelming to fill out. Additionally, all the information from the submitted application is also inputted manually into a spreadsheet, so the possibility of errors are much more frequent, as every piece of information is copied over by hand. 
@@ -17,10 +27,35 @@ Some more improvements include:
 
 Tracking/progress of project issues can be found on our project boards.
 
+<a name="milestone1"/>
 [Milestone 1](https://github.com/orgs/green-loan-portal/projects/1)
 
+<a name="milestone2"/>
 [Milestone 2](https://github.com/orgs/green-loan-portal/projects/2)
 
+<a name="accesswebapplication"/>
+## Accessing the application on the web
+
+Please [click here](http://simple-green-loans.meteorapp.com/#/)
+
+<a name="demo"/>
+## User Interface Demonstration
+
+After you run the appliation, you will be greeted by our homepage:
+
+<img src="images/HomePage1.png">
+
+If you don't have an account with us, you can click "Login" on the uppper right hand corner of the page, and choose "Sign up":
+
+<img src="images/register.png">
+
+Once you set up an account, you will receive a confirmation email, and will be taken to this page:
+
+<img src="images/userlogin.png">
+
+On the user login screen, you can either start/resume your GEM$ application, or you can check the progress of your application to see what stage it is processed at. 
+
+<a name="installation"/>
 ## Installation
 
 First, [install Meteor](https://www.meteor.com/install).
@@ -75,26 +110,7 @@ On some operating systems (particularly Windows), installing bcrypt is much more
 
 If all goes well, the template application will appear at http://localhost:3000. You can login using the credentials in [settings.development.json](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json), or else register a new account.
 
-## Accessing the application on the web
-
-Please [click here](http://simple-green-loans.meteorapp.com/#/)
-
-## User Interface Demonstration
-
-After you run the appliation, you will be greeted by our homepage:
-
-<img src="images/HomePage1.png">
-
-If you don't have an account with us, you can click "Login" on the uppper right hand corner of the page, and choose "Sign up":
-
-<img src="images/register.png">
-
-Once you set up an account, you will receive a confirmation email, and will be taken to this page:
-
-<img src="images/userlogin.png">
-
-On the user login screen, you can either start/resume your GEM$ application, or you can check the progress of your application to see what stage it is processed at. 
-
+<a name="teammembers"/>
 ## Team Members:
 
 Brody Uehara: Junior at the University of Hawaii at Manoa, primarily worked on front end of green loan portal. My goals to this project is to learn more about web development and grow my programming skills. 
