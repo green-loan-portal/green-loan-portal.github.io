@@ -115,10 +115,10 @@ If all goes well, the template application will appear at http://localhost:3000.
 
 [Brody Uehara](https://github.com/brodyu): I primarily worked on front end to enhance user interface with the green loan portal. My goals to this project is to learn more about web development and grow my programming skills. 
 
-Trey Sumida: My goal for this project is to learn how to develop an application with a group and code with others. I am looking to improve upon my web development skills. I am more comfortable with front-end UI, and have some experience with databases.
+[Trey Sumida](https://github.com/trey-sumida): My goal for this project is to learn how to develop an application with a group and code with others. I am looking to improve upon my web development skills. I am more comfortable with front-end UI, and have some experience with databases.
 
-Arslan Rakhmankulov: My goals for this project is to obtain mastery of the Meteor technology stack. I primarily worked on the back-end along with some front end relating to application forms.
+[Arslan Rakhmankulov](https://github.com/arslan-r): My goals for this project is to obtain mastery of the Meteor technology stack. I primarily worked on the back-end along with some front end relating to application forms.
 
-Ryota Seki: My goals for this project are to get comfortable with using the web application framework Meteor, to learn the different components associated with it (React and Mongo DB), and to learn the process/workflow of working with and contributing to open source projects. I implemented a few features on the front end. 
+[Ryota Seki](https://github.com/ryotabs): My goals for this project are to get comfortable with using the web application framework Meteor, to learn the different components associated with it (React and Mongo DB), and to learn the process/workflow of working with and contributing to open source projects. I implemented a few features on the front end. 
 
 [Wiley Bui](https://wileybui.com): Junior at the University of Minnesota - Twin Cities. My goals for this project are to work along with others as well as to practice/master the skills that I have learned in this course using JavaScript, React, Meteor, and, especially, MongoDB. I would like to know how the application would come together when it is made and is pushed through production. The skills that I brought to the teams were to add, update, list, and edit the records for the database.
