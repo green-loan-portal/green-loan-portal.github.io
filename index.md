@@ -64,11 +64,11 @@ Second, [download a copy of green-loan-portal](https://github.com/green-loan-por
 
 Third, cd into the app directory install the required libraries with:
 
-`$ meteor npm install`
+```$ meteor npm install```
 
 Once the libraries are installed, you can run the application by invoking:
 
-`$ meteor npm run start`
+```$ meteor npm run start```
 
 The first time you run the app, it will create some default users and data. Here is the output:
 ```
@@ -121,4 +121,4 @@ If all goes well, the template application will appear at http://localhost:3000.
 
 [Ryota Seki](https://github.com/ryotabs): My goals for this project are to get comfortable with using the web application framework Meteor, to learn the different components associated with it (React and Mongo DB), and to learn the process/workflow of working with and contributing to open source projects. I implemented a few features on the front end. 
 
-[Wiley Bui](https://wileybui.com): Junior at the University of Minnesota - Twin Cities. My goals for this project are to work along with others as well as to practice/master the skills that I have learned in this course using JavaScript, React, Meteor, and, especially, MongoDB. I would like to know how the application would come together when it is made and is pushed through production. The skills that I brought to the teams were to add, update, list, and edit the records for the database.
+[Wiley Bui](https://github.com/wileybui): Junior at the University of Minnesota - Twin Cities. My goals for this project are to work along with others as well as to practice/master the skills that I have learned in this course using JavaScript, React, Meteor, and, especially, MongoDB. I would like to know how the application would come together when it is made and is pushed through production. The skills that I brought to the teams were to add, update, list, and edit the records for the database.
