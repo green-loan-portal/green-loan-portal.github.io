@@ -61,6 +61,10 @@ Once you set up an account, you will receive a confirmation email, and will be t
 
 On the user login screen, you can either start/resume your GEM$ application, or you can check the progress of your application to see what stage it is processed at. 
 
+<img src="images/application.png">
+
+The "My Application" link takes you to the loan application that you can fill out, and has sections that you can jump back and forth to. Additionally, you can also save your application to return to it at another time.
+
 <img src="images/profile.png">
 
 When the application is completed, the applicant's status will change, indicating where the application is in the process. 
