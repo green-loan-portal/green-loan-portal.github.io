@@ -1,7 +1,7 @@
 ## Table of Contents
 * [Overview](#overview)
-  * [Milestone 1](https://github.com/orgs/green-loan-portal/projects/1)
-  * [Milestone 2](https://github.com/orgs/green-loan-portal/projects/2)
+* [Milestone 1](https://github.com/orgs/green-loan-portal/projects/1)
+* [Milestone 2](https://github.com/orgs/green-loan-portal/projects/2)
 * [Accessing the application on the web](#accesswebapplication)
 * [User Interface Demonstration](#demo)
 * [Installation](#installation)
@@ -62,7 +62,7 @@ First, [install Meteor](https://www.meteor.com/install).
 
 Second, [download a copy of green-loan-portal](https://github.com/green-loan-portal/simple-green-loans). 
 
-Third, cd into the app directory install the required libraries with:
+Third, 'cd' into the app directory and install the required libraries with:
 
 ```$ meteor npm install```
 
@@ -108,7 +108,7 @@ in the root directory of your application.
 
 On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
 
-If all goes well, the template application will appear at http://localhost:3000. You can login using the credentials in [settings.development.json](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json), or else register a new account.
+If all goes well, the template application will appear at http://localhost:3000. You can login using the credentials in [settings.development.json](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json), or register a new account. Normal users can create their own accounts on the webpage, if you would like to add administrator/contractor roles, then those would have to be added manually in [settings.development.json](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json), with the idea being that site administrators would be the ones responsible for provisioning administrator and contractor accounts for the program.
 
 <a name="teammembers"></a>
 ## Team Members:
