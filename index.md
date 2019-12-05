@@ -78,9 +78,9 @@ When the applicant is done with the application, they will get the following not
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, [download a copy of green-loan-portal](https://github.com/green-loan-portal/simple-green-loans). 
+Second, [download a copy of green-loan-portal](https://github.com/green-loan-portal/simple-green-loans) by cloning the repository. 
 
-Third, 'cd' into the app directory and install the required libraries with:
+Third, open your terminal and 'cd' into the app directory and install the required libraries with:
 
 ```$ meteor npm install```
 
@@ -126,7 +126,41 @@ in the root directory of your application.
 
 On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
 
-If all goes well, the template application will appear at http://localhost:3000. You can login using the credentials in [settings.development.json](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json), or register a new account. Normal users can create their own accounts on the webpage, if you would like to add administrator/contractor roles, then those would have to be added manually in [settings.development.json](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json), with the idea being that site administrators would be the ones responsible for provisioning administrator and contractor accounts for the program.
+If all goes well, the template application will appear at http://localhost:3000. You can login using the credentials in [settings.development.json](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json), or register a new account. Normal users can create their own accounts on the webpage, but if you would like to add administrator/contractor roles, then those would have to be added manually in [settings.development.json](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json), with the idea being that site moderators would be the ones responsible for provisioning administrator and contractor accounts for the program.
+
+If you are making changes to database entries, then you may need to reset meteor for the changes to be propagated to the application. Invoke the command```meteor reset``` to reset the database. If done correctly, all the default entries in settings.development.json should be added when ```meteor npm run start``` is executed after resetting. The output should look like: 
+
+```
+➜  app git:(master) meteor reset
+Project reset.
+➜  app git:(master) meteor npm run start
+
+> meteor-application-template-react@ start /Users/ryota/github/ryotabs/simple-green-loans/app
+> meteor --no-release-check --settings ../config/settings.development.json
+
+[[[[[ ~/github/ryotabs/simple-green-loans/app ]]]]]
+
+=> Started proxy.
+=> Started MongoDB.
+W20191204-22:35:30.112(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
+W20191204-22:35:30.156(-10)? (STDERR) While this implementation will work correctly, it is known to be
+W20191204-22:35:30.156(-10)? (STDERR) approximately three times slower than the native implementation.
+W20191204-22:35:30.156(-10)? (STDERR) In order to use the native implementation instead, run
+W20191204-22:35:30.156(-10)? (STDERR)
+W20191204-22:35:30.157(-10)? (STDERR)   meteor npm install --save bcrypt
+W20191204-22:35:30.157(-10)? (STDERR)
+W20191204-22:35:30.157(-10)? (STDERR) in the root directory of your application.
+I20191204-22:35:30.997(-10)? Creating the default user(s)
+I20191204-22:35:30.998(-10)?   Creating user admin@foo.com.
+I20191204-22:35:31.231(-10)?   Creating user wileyb@hawaii.edu.
+I20191204-22:35:31.447(-10)?   Creating user ryoabs@hawaii.edu.
+I20191204-22:35:31.657(-10)?   Creating user default@foo.com.
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+```
+
+
 
 To implement your own changes to the site, you can open the project in your editor/IDE of choice. 
 
