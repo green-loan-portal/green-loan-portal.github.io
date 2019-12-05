@@ -16,7 +16,9 @@ Our solution that we are working toward aims to eliminate the redundancies in th
 
 Finally, a key feature that we are working on implementing is to export database entries for each applicant into the original application form for historical documentation purposes. 
 
-Some more improvements include:
+We believe that this pushes more accessibility to sustainable energy for the local community in Hawaii, and allows more people to take advantage of going toward the goal of clean energy. By improving the process, we hope that the process is easier and more transparent to those that are 
+
+Some key improvements include:
 
 * User account creation to create new applications and save their application status
 * Monitoring of progress of application status to see what stage of processing it is in
@@ -39,11 +41,11 @@ Tracking/progress of project issues can be found on our project boards.
 Please [click here](http://simple-green-loans.meteorapp.com/#/)
 
 <a name="demo"></a>
-## User Interface Demonstration
+## User Guide
 
 After you run the application, you will be greeted by our [homepage](http://simple-green-loans.meteorapp.com):
 
-<img src="images/HomePage.png">
+<img src="images/home.png">
 
 If you don't have an account with us, you can click "Login" on the upper right hand corner of the page, and choose "[Sign up](http://simple-green-loans.meteorapp.com/#/signup)":
 
@@ -55,8 +57,16 @@ Once you set up an account, you will receive a confirmation email, and will be t
 
 On the user login screen, you can either start/resume your GEM$ application, or you can check the progress of your application to see what stage it is processed at. 
 
+<img src="images/profile.png">
+
+When the application is completed, the applicant's status will change, indicating where the application is in the process. 
+
+<img src="images/logout.png">
+
+When the applicant is done with the application, they will get the following notification and will be returned to the home page.
+
 <a name="installation"></a>
-## Installation
+## Developer Guide
 
 First, [install Meteor](https://www.meteor.com/install).
 
@@ -109,6 +119,8 @@ in the root directory of your application.
 On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
 
 If all goes well, the template application will appear at http://localhost:3000. You can login using the credentials in [settings.development.json](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json), or register a new account. Normal users can create their own accounts on the webpage, if you would like to add administrator/contractor roles, then those would have to be added manually in [settings.development.json](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json), with the idea being that site administrators would be the ones responsible for provisioning administrator and contractor accounts for the program.
+
+To implement your own changes to the site, you can open the project in your editor/IDE of choice. 
 
 <a name="teammembers"></a>
 ## Team Members:
