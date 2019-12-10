@@ -3,7 +3,7 @@
 * [Milestone 1](https://github.com/orgs/green-loan-portal/projects/1)
 * [Milestone 2](https://github.com/orgs/green-loan-portal/projects/2)
 * [Milestone 3](https://github.com/orgs/green-loan-portal/projects/3)
-* [Accessing the application on the web](#accesswebapplication)
+* [Accessing the application on the web](http://simple-green-loans.meteorapp.com/#/)
 * [User Interface Demonstration](#demo)
 * [Installation](#installation)
 * [Team Members](#teammembers)
@@ -38,11 +38,6 @@ Tracking/progress of project issues can be found on our project boards.
 
 <a name="milestone3"></a>
 [Milestone 3](https://github.com/orgs/green-loan-portal/projects/3)
-
-<a name="accesswebapplication"></a>
-## Accessing the application on the web
-
-Please [click here](http://simple-green-loans.meteorapp.com/#/)
 
 <a name="demo"></a>
 ## User Guide
