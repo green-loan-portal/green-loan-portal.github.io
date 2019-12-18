@@ -41,6 +41,8 @@ Tracking/progress of project issues can be found on our project boards.
 [Milestone 3](https://github.com/orgs/green-loan-portal/projects/3)
 
 <a name="demo"></a>
+
+
 ## User Guide
 
 After accessing our application on the web, you will be greeted by our [homepage](http://simple-green-loans.meteorapp.com):
