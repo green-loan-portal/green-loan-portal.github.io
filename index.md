@@ -5,6 +5,7 @@
 * [Milestone 3](https://github.com/orgs/green-loan-portal/projects/3)
 * [Accessing the application on the web](http://simple-green-loans.meteorapp.com/#/)
 * [User Interface Demonstration](#demo)
+* [Community Feedback](#feedback)
 * [Installation](#installation)
 * [Team Members](#teammembers)
 
@@ -67,6 +68,21 @@ When the application is completed, the applicant's status will change, indicatin
 <img src="images/logout.png">
 
 When the applicant is done with the application, they will get the following notification and will be returned to the home page.
+
+<a name="feedback"></a>
+## Community Feedback
+
+"The website has a easy but detailed interface. It’s useful that all the information is easy to see and has images, which also helps. Overall, it has a nice layout and gives the information in concise way"
+
+"Seems pretty self explanatory. Looks really easy to use. Really clean cut forms. Signing feature is really fun. Simple, easy, well designed. I like the picture diagram because I learn better with pictures"
+
+"Good logo. Fun scrolling. Good presentation of information. Nice spacing on the forms"
+
+"Nice footer. There should be a start application button instead of view or edit". The red asterisks don't show if we click next (referring to the required fields. They allow the person to skip to the next page without filling out the information fully. I think we should sell this as a "feature" where users can fill out parts of the form at a time.)"
+
+"Form 2 account field allows letters. Signature gets cleared if we save the forms. You can chose all the check boxes on the authorization form. Authorization form needs to be signed again after we save and finish. There is no "finish" button. The page doesn't redirect after I finish."
+
+"nice footer"
 
 <a name="installation"></a>
 ## Developer Guide
