@@ -14,9 +14,9 @@
 
 green-loan-portal is a web application that we have created for the [GEM$ loan program](https://gems.hawaii.gov/). The application provides improvements to the current process which is done manually and is very prone to errors. As of now, the current process is mainly initiated by filling out a long PDF application that has many sections and can be overwhelming to fill out. Additionally, all the information from the submitted application is also inputted manually into a spreadsheet, so the possibility of errors are much more frequent, as every piece of information is copied over by hand. 
 
-Our solution that we are working toward aims to eliminate the redundancies in the current process by creating a web application that is simple to fill out easy to follow along with. Applicants can create their own accounts, and fill out their application with the web-based forms, and can save their progress in the application to come back to it later. It also creates database entries for each user and records their responses in the forms in the database as well. For the loan processors, different account roles will be created, and they can look up any applicant by querying their information in the database. 
+Our solution that we are working toward aims to eliminate the redundancies in the current process by creating a web application that is simple to fill out and is easy to follow along with. Applicants can create their own accounts, fill out their application with the web-based forms, and can save their progress in the application to come back to it later. It also creates database entries for each user and records their responses in the forms in the database. For the loan processors, different account roles will be created, and roles with admin privileges can look up any applicant by querying their information in the database. 
 
-Finally, a key feature that we are working on implementing is to export database entries for each applicant into the original application form for historical documentation purposes. 
+Finally, a key feature that we have implemented is our emailing system. Once a user creates an account with GEM$, the user will recieve a confirmation email immediately. Moreover, the admin can remind certain users to finish uncompleted applications by the click of a button. We are working on additional features including exporting database entries for each applicant into the original application form for historical documentation purposes. 
 
 We believe that this pushes more accessibility to sustainable energy for the local community in Hawaii, and allows more people to take advantage of going toward the goal of clean energy. By improving the process, we hope that the process is easier and more transparent to those that are 
 
@@ -73,6 +73,7 @@ When the applicant is done with the application, they will get the following not
 
 <a name="feedback"></a>
 ## Community Feedback
+Below is feedback on our application we recieved from the local ICS Community:
 
 "The website has a easy but detailed interface. It’s useful that all the information is easy to see and has images, which also helps. Overall, it has a nice layout and gives the information in concise way"
 
