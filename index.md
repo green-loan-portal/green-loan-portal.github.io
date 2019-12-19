@@ -81,7 +81,7 @@ Below is feedback on our application we recieved from the local ICS Community:
 
 "Good logo. Fun scrolling. Good presentation of information. Nice spacing on the forms"
 
-"Nice footer. There should be a start application button instead of view or edit". The red asterisks don't show if we click next (referring to the required fields. They allow the person to skip to the next page without filling out the information fully. I think we should sell this as a "feature" where users can fill out parts of the form at a time.)"
+"Nice footer. There should be a start application button instead of view or edit". The red asterisks don't show if we click next "
 
 "Form 2 account field allows letters. Signature gets cleared if we save the forms. You can chose all the check boxes on the authorization form. Authorization form needs to be signed again after we save and finish. There is no "finish" button. The page doesn't redirect after I finish."
 
